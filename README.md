@@ -6,4 +6,6 @@
 - 💬 Ask me about Dragonkind
 - 📫 How to reach me: Join the [Dragonkind discord server](https://discord.gg/3u4BBpaEUn) and DM ModMail
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: You can find us occasionally working with Isaiah Priori on a `special` portal
+- ⚡ Fun fact: You can find us occasionally working with Isaiah Priori on a `special` portal!
+<br>
+<b> DID YOU KNOW? Chill & Char have partnered with the Github Developer Program! <b>
