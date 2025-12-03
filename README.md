@@ -1,8 +1,7 @@
-### H'lo
+### Heyyyy!
 ## About me
-- love chickens
-- enjoy coding and fighting nerf wars
-- did I mention I love chickens?!
+- likes: chickens, coding, chickens, guitars, chickens, nice audio, foxes, ham radio, chickens (did I say that already?)
+- doesn't like: broccoli (that's not burnt)
 ## Currently working on:
 - webmaster/webm: Discord bot designed for kids by a kid :)
 - sspanak/tt9: coolest keyboard in existence, working on adding keybinds
