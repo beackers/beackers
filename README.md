@@ -5,3 +5,4 @@
 ## Currently working on:
 - sspanak/tt9: coolest keyboard in existence, working on adding keybinds and Latin
 - beackers/myop: Flask server for AREDN
+- beackers/regenwall: Randomized art generator for your wallpaper
