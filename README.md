@@ -1,6 +1,6 @@
 ### Heyyyy!
 
-I'm @beackers, also known as Atticus Finley. No, not the character from *To Kill a Mockingbird*. That's Atticus *Finch*.
+I'm @beackers, also known as Atticus Finley. No, not the character from *To Kill a Mockingbird*. That's Atticus *Finch*. Oh, and the dawg in the profile pic is my shepherd Pesky.
 
 Check out my website at [beackers.pythonanywhere.com](https://beackers.pythonanywhere.com/)!
 
@@ -13,7 +13,5 @@ Check out my website at [beackers.pythonanywhere.com](https://beackers.pythonany
 - beackers/regenwall: Randomized art generator for your wallpaper
 - sarhacking/telnet-to-packet-bridge: a cool bridge that could use Docker
 - beackers/nwsalertsui: a lightweight web application for fetching current National Weather Service alerts near you
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-### my secret dawg
-![atticus and pesky](https://beackers.pythonanywhere.com/static/atticus-and-pesky.jpeg)
+## Why I named him Pesky
+It's a ham radio thing. PSK (Phase Shift Keying) is a digital mode common to the HF bands. PSK31 is common software used to run it. The 3 looks like an E. Pesky. I don't know.
