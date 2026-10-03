@@ -2,7 +2,7 @@
 
 I'm @beackers, also known as Atticus Finley. No, not the character from *To Kill a Mockingbird*. That's Atticus *Finch*. Oh, and the dawg in the profile pic is my shepherd Pesky.
 
-Check out my website at [https://beackers.pythonanywhere.com]! That's where some of the cool stuff that isn't here is ;)
+Check out my website at https://beackers.pythonanywhere.com! That's where some of the cool stuff that isn't here is ;)
 
 ## About me
 - likes: chickens, coding, chickens, guitars, chickens, nice audio, foxes, ham radio, chickens (did I say that already?)
